@@ -1,1 +1,1 @@
-# TEA-Algorithm
+# Basic TEA implementation
